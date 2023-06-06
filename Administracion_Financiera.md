@@ -1,6 +1,6 @@
 # Administración Financiera y su función en la empresa
 
-## Administración Financiera y Teoría de Agencia
+## Administración Financiera
 
 Las finanzas como disciplina son la administración de bienes para generar riqueza en una empresa, persona o estado. Estudian  como las entidades economicas
 deben tomar decisiones para generar riqueza. Para ello necesitan de la *contabilidad* que se encarga de estudiar, medir o analizar el patrimonio de una entidad economica.
@@ -47,3 +47,16 @@ en función de los flujos de efectivo y la toma de decisiones? Que los administr
 14. ¿Cuáles son las dos actividades principales del administrador financiero
 que tienen relación con el balance general de la empresa? Utilizan el balance general de la empresa para tomar decisiones
 financieras y de inversión, pero siempre buscando maximizar el valor de la compañia y no usando principios contables.
+
+
+## Gobierno Coorporativo
+
+El gobierno corporativo se refiere a las reglas, leyes y controles que se aplican en una empresa. En los últimos años, especialmente en Estados Unidos, se han incrementado las regulaciones en torno al gobierno corporativo debido a diversos escándalos. Este aumento de regulaciones incluye medidas relacionadas con el área contable y de auditoría, entre otras.
+
+La Teoría de Agencia es fundamental para comprender el gobierno corporativo en las empresas que nos rodean, ya que explica cómo los accionistas, también conocidos como "principales", administran su empresa. Los principales eligen a sus gerentes, quienes actúan como agentes y se encargan de proteger los intereses de la empresa.
+
+Se utilizan principalmente dos términos para describir a estos agentes: Stakeholders (partes interesadas) en la geografía anglosajona y latinoamericana, y Shareholders (accionistas) en Europa. La diferencia radica en que los Shareholders suelen recibir incentivos económicos en forma de acciones de la compañía para cumplir su objetivo de "maximizar el valor de la compañía", mientras que los Stakeholders son diferentes interesados en la empresa; accionistas, sociedad, medio ambiente y agentes.
+
+En el modelo de partes interesadas (Stakeholders), el enfoque se centra en aumentar los beneficios de todas las partes interesadas involucradas en la empresa, lo cual incluye a los accionistas pero también considera a otros grupos como empleados, clientes, proveedores, comunidad y medio ambiente. Por otro lado, en el modelo de los accionistas (Shareholders), el objetivo principal es maximizar el valor de las acciones de la empresa. En este enfoque, se da prioridad a los intereses y beneficios de los accionistas como propietarios de la empresa.
+
+En resumen, el modelo de partes interesadas busca un beneficio más amplio y considera a todas las partes interesadas, mientras que el modelo de los accionistas se centra específicamente en maximizar el valor de las acciones y satisfacer los intereses de los accionistas como propietarios.
