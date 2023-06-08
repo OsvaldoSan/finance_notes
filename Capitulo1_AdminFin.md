@@ -1,4 +1,4 @@
-# Administración Financiera y su función en la empresa
+# Cápitulo 1: Administración Financiera y su función en la empresa
 
 ## Administración Financiera
 
@@ -60,3 +60,6 @@ Se utilizan principalmente dos términos para describir a estos agentes: Stakeho
 En el modelo de partes interesadas (Stakeholders), el enfoque se centra en aumentar los beneficios de todas las partes interesadas involucradas en la empresa, lo cual incluye a los accionistas pero también considera a otros grupos como empleados, clientes, proveedores, comunidad y medio ambiente. Por otro lado, en el modelo de los accionistas (Shareholders), el objetivo principal es maximizar el valor de las acciones de la empresa. En este enfoque, se da prioridad a los intereses y beneficios de los accionistas como propietarios de la empresa.
 
 En resumen, el modelo de partes interesadas busca un beneficio más amplio y considera a todas las partes interesadas, mientras que el modelo de los accionistas se centra específicamente en maximizar el valor de las acciones y satisfacer los intereses de los accionistas como propietarios.
+
+
+
